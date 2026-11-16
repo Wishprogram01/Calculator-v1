@@ -1,5 +1,6 @@
 
 # KALKULATOR GUI C BY ZW
+<img width="410" height="532" alt="image" src="https://github.com/user-attachments/assets/5745669c-b2ad-4f2c-8e4b-aaa7707110ff" />
 
 A lightweight dekstop calculator application built entirely in c using the **Immediate mode gui **SDL2** and **openGL3** as the backend
 
