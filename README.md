@@ -33,3 +33,6 @@ gcc src/main.c -o calculator \
 # Calculator-v1
 a normal calculator using C language
 
+
+```bash
+have fun :)
