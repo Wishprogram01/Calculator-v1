@@ -1,3 +1,4 @@
+
 # KALKULATOR GUI C BY ZW
 
 A lightweight dekstop calculator application built entirely in c using the **Immediate mode gui **SDL2** and **openGL3** as the backend
@@ -27,4 +28,8 @@ gcc src/main.c -o calculator \
 ├── bin/
 ├── README.md
 └── .gitignore
+
+=======
+# Calculator-v1
+a normal calculator using C language
 
